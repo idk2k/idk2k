@@ -1,6 +1,8 @@
 ### Hi there 👋 <img align="right" width="130" height="230" src="https://images.unsplash.com/photo-1541345141634-61212040fdc5?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8ZGFyayUyMHdhdmVzfGVufDB8fDB8fHww">
 - 🔭 I’m currently working on Custom Stack-Based VM.
 - 🌱 I’m currently learning Cryptography, Math (Elliptic Curves),  and Computer Graphics.
+<br /><br /><br />
+#### @idk2k
 
 <!--
 **idk2k/idk2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
